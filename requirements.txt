@@ -1,0 +1,9 @@
+catboost>=1.2
+implicit>=0.7
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+torch
